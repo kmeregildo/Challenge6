@@ -1,5 +1,5 @@
 # Challenge 6: Weather Dashboard
-[Launch Weather Dashboard](https://justinmarchi.github.io/Homework-6-WeatherDashboard.github.io)
+[Launch Weather Dashboard](https://github.com/kmeregildo/Challenge6.git)
 
 
 # 06 Server-Side APIs: Weather Dashboard
@@ -16,6 +16,3 @@ I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
 
-# Challenge6
-# Challenge6
-# Challenge6
