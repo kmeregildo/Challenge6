@@ -1,5 +1,5 @@
 # Challenge 6: Weather Dashboard
-[Launch Weather Dashboard](https://github.com/kmeregildo/Challenge6.git)
+[Launch Weather Dashboard](https://kmeregildo.github.io/challenge6/)
 
 
 # 06 Server-Side APIs: Weather Dashboard
